@@ -30,9 +30,6 @@
   <img src="https://github.com/user-attachments/assets/16396fd7-c2ea-402f-ac81-1d4a8aa3c436" alt="My Achievements" width="80" style="max-width:100%; height:auto;"/>
 </a>
 
-
-<img align= "right" src="https://github-readme-stats.vercel.app/api?username=Voyager466920&show_icons=true&theme=dark">
-
 ### 🚀 Languages / Platforms
 
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <br>
