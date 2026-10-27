@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Jason Park</h2>
+<h2>Jason Park </h2>
 <p><b>On-Device AI Researcher</b></p>
 
 <a href="https://dutchvandaline.github.io/">
